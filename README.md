@@ -8,4 +8,5 @@ Using the [GitHub API](https://developer.github.com/v3/), the following function
 * Editing a repo.
 * Enabling wiki support for a repo.
 
-Built using JavaScript and Node.js. View [Code](https://github.com/xprathamesh/Github-RestAPI-Interactions/blob/master/index.js). 
+Built using JavaScript and Node.js. 
+View [Code](https://github.com/xprathamesh/Github-RestAPI-Interactions/blob/master/index.js). 
