@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "chalk": "^2.4.2",
-    "parse-link-header": "^1.0.1",
+    "parse-link-header": "^2.0.0",
     "request": "^2.88.0"
   },
   "devDependencies": {
